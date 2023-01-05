@@ -132,10 +132,10 @@ sitewide_privacy_statement = Off
 [database]
 
 driver = mysql
-host = localhost
-username = root
-password = 
-name = ojs2
+host = brvnczaarxn1ppduoewo-mysql.services.clever-cloud.com
+username = u6odyrwwkp9drv13
+password = u6odyrwwkp9drv13
+name = brvnczaarxn1ppduoewo
 
 ; Set the non-standard port and/or socket, if used
 ; port = 3306
